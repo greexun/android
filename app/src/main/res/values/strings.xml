@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Appli</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prenom</string>
+    <string name="homme">Homme</string>
+    <string name="jj_mm_aaaa">jj/mm/aaaa</string>
+    <string name="femme">Femme</string>
+    <string name="telephone">Telephone</string>
+    <string name="textview">TextView</string>
+</resources>
